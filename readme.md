@@ -1,4 +1,4 @@
-# 🐍 Python TCP & UDP Client–Server
+# Python TCP & UDP Client–Server
 
 Project ini merupakan implementasi sederhana komunikasi jaringan menggunakan protokol **TCP** dan **UDP** dengan bahasa pemrograman Python.
 Cocok untuk pembelajaran **networking**, **ethical hacking**, dan **dasar penetration testing legal**.
