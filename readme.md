@@ -40,6 +40,9 @@ cd "tcp client server"
 python client.py
 ```
 
+### **Outputnya**
+<img width="676" height="184" alt="image" src="https://github.com/user-attachments/assets/c3b515b2-2ce4-4bec-920c-983e5f489ce6" />
+
 ---
 
 ### **3. Menjalankan UDP Server**
