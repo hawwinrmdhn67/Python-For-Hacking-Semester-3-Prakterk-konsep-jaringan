@@ -45,6 +45,7 @@ python client.py
 ```
 
 ### **Outputnya**
+
 <img width="676" height="184" alt="image" src="https://github.com/user-attachments/assets/c3b515b2-2ce4-4bec-920c-983e5f489ce6" />
 
 ---
@@ -54,6 +55,10 @@ python client.py
 ```bash
 python udpServer.py
 ```
+
+### **Outputnya**
+
+<img width="563" height="90" alt="image" src="https://github.com/user-attachments/assets/7f4ef6b6-eee0-468a-91ca-0bc4adfc97b4" />
 
 ### **4. Menjalankan UDP Client**
 
