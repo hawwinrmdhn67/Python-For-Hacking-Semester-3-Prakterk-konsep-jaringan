@@ -32,6 +32,10 @@ python server.py
 
 <img width="683" height="117" alt="image" src="https://github.com/user-attachments/assets/cdd20543-2d6d-44bf-be66-07dba456d6d0" />
 
+### **Output setelah menjalankan client.py**
+
+<img width="673" height="136" alt="image" src="https://github.com/user-attachments/assets/c1027b6c-2b41-4b20-a6cc-9587bdd1556c" />
+
 
 ### **2. Menjalankan TCP Client**
 
