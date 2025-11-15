@@ -28,6 +28,11 @@ cd "tcp client server"
 python server.py
 ```
 
+### **Outputnya**
+
+<img width="683" height="117" alt="image" src="https://github.com/user-attachments/assets/cdd20543-2d6d-44bf-be66-07dba456d6d0" />
+
+
 ### **2. Menjalankan TCP Client**
 
 ```bash
