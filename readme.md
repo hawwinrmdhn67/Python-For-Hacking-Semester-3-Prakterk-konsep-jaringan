@@ -60,11 +60,20 @@ python udpServer.py
 
 <img width="563" height="90" alt="image" src="https://github.com/user-attachments/assets/7f4ef6b6-eee0-468a-91ca-0bc4adfc97b4" />
 
+### **Output setelah menjalankan udpSocket.py**
+
+<img width="546" height="129" alt="image" src="https://github.com/user-attachments/assets/a8dbfec9-1ea6-467b-a712-2dbcee693969" />
+
+
 ### **4. Menjalankan UDP Client**
 
 ```bash
 python udpSocket.py
 ```
+
+### **Outputnya**
+
+<img width="561" height="140" alt="image" src="https://github.com/user-attachments/assets/5b61138e-72b4-48af-8ff4-3e22cf7fcf6c" />
 
 ---
 
