@@ -20,6 +20,6 @@ if __name__ == "__main__":
         # print(string) # hilangkan pagar nya agar kode bisa dipake (saran #1 dan #2 itu digunakan salah satu saja)
 
         #2
-        # client.send(bytes(string, 'utf-8')) # hilangkan pagar nya agar kode bisa dipake
+        client.send(bytes(string, 'utf-8')) # hilangkan pagar nya agar kode bisa dipake
 
         client.close()
