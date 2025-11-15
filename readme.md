@@ -1,8 +1,3 @@
-Sip! Karena folder kamu sekarang sudah ada `readme.md`, ini versi README yang **lebih rapi, lengkap, dan profesional** — cocok untuk GitHub, tugas kampus, maupun portfolio.
-Tinggal copy–paste ke file `readme.md`.
-
----
-
 # 🐍 Python TCP & UDP Client–Server
 
 Project ini merupakan implementasi sederhana komunikasi jaringan menggunakan protokol **TCP** dan **UDP** dengan bahasa pemrograman Python.
