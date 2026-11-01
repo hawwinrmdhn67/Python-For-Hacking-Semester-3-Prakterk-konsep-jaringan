@@ -143,28 +143,3 @@ import socket
 ```
 
 ---
-
-## 🛡️ Legal & Ethical Notes
-
-Kode ini dibuat **khusus untuk pembelajaran jaringan**:
-
-✔ Praktikum networking
-✔ Simulasi client–server
-✔ Ethical hacking di jaringan sendiri
-✔ Penetration testing yang **legal**
-
-⚠ **Dilarang** digunakan untuk:
-
-* Meretas server tanpa izin
-* Serangan DDoS
-* Aktivitas ilegal lainnya
-
-Segala penyalahgunaan menjadi tanggung jawab pengguna.
-
----
-
-## 📄 Lisensi
-
-Project bebas digunakan untuk riset dan pembelajaran dalam konteks legal dan etis.
-
----
